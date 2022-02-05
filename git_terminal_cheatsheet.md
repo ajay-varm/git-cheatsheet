@@ -33,7 +33,7 @@ ___
 * `git rebase -i < commitno. >` - combines all the above commits into 1 commit
   * `s` will be combines to `pick`
   * to save `:x`
-
+---
 ### **GitHub terminal commands** :
 
 * `git remote add origin < link of repo >` - connects repository to local
